@@ -1,0 +1,41 @@
+response,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12
+1,18 - 29,mail service,,Work;Academic,,Email;Calendar;Groups;Tasks;Notes;Meetings,None,Yes,mail app,None,5,
+2,18 - 29,Slowness. When I used it for work it couldn't handle the volume of emails,Compose new message icon,Work,,Email;Meetings,Google ecosystem,No,I liked the flags feature,"Slowness, crashing.  I prefer a web based client",2,
+3,50 - 64,"email, huge time sink/waste of time",do not recall,Work;Academic,,Email;Calendar;Meetings,"google mail, google calendar, Trello, Wrike, (task managers)",No,"ubiquitous, (reasonably) easy to use (mostly because familiar)","ubiquitous, compelled to use by work",3,
+4,40 - 49,email,,Work,,Email;Calendar,Google calendar,No,It's a sub-par email client.. I use it because I have to,It's a sub-par email client.. I use it because I have to,2,
+5,18 - 29,Email,Send icon,Work,,Email;Calendar;Meetings,Skype for Business,No,It's a basic email interface that is familiar,It crashes frequently or has trouble getting connected. Reliability can be poor.,3,
+6,30 - 39,Documents,File,Work;Academic,,Email;Calendar,None,No,Calendar,Installing updates,3,None
+7,30 - 39,An email client mostly used in businesses.,"Non in particular, maybe the compose button?",Work,,Email,"Notes, Tasks, Calendar",No,The rubbin UI in quite nice on the MacOS platform.,Can sometimes feel a bit too complex for just an email client. ,3,
+8,30 - 39,Work,Mail Icon,Work,,Email;Calendar;Tasks;Meetings,Calendar on my mobile device,Yes,"Easy to organize folders, good calendar",hard to find old emails,4,
+9,18 - 29,Mailing Service,Blue ,Work,,Email;Calendar;Meetings,Gmail,Yes,In time mails and meeting notifications,Rules making can be improved,4,
+10,18 - 29,email,email,Work,,Email;Calendar;Tasks;Meetings,none,Yes,"Easy interface, powerful features",Lack of notekeeping tool,4,
+11,18 - 29,office emails,The message icon,Work,,Email;Calendar;Meetings,none,Yes,ease of use,too many tabs,3,
+12,18 - 29,email,unread emails,Work,,Email;Calendar;Meetings,"gmail, google calendar, the calendar on my phone, the task list on my phone",No,I like that the emails and calendar are both in the same place and easy to navigate from one to the other.,I dislike the way that emails are archived. I can never find where they go even though I set the folder.,3,
+13,50 - 64,The mail app,Don’t understand he meaning of the question ,Work;Academic;Personal,,Email;Calendar;Meetings,Google Calender; Fantatical Calendar; Google Keep,Yes,Works well. Easy to talk with Microsoft support if needed. ,Slow on iPhone.  Mac and Windows versions are slightly different. ,4,
+14,18 - 29,school emails,"compose new mail,  top right",Academic,,Email,n/a,No,I can easily manage multiple accounts,it's somewhat slow,4,
+15,18 - 29,Bulky,,Work,,Email;Calendar;Groups;Meetings,Google calendar,No,"Business wise, it's good","Inconvenient. Software works superior than the web version; however, web email offers much more portability and usability, ",3,
+16,40 - 49,It usually makes me feel a little sorry for the person that needs to use it,The 'New Item' icon,Work,,Email;Calendar;Meetings,I use Google products in the browser for my personal email/calendar.,No,It has good integration with other Microsoft products,It has too many options/features and uses too many system resources,3,
+17,18 - 29,mail,launch icon,Work,,Email;Calendar;Meetings,reminders for meetings,Yes,calendar integration with mails,heavy on data,4,Could use categorization like gmail on outlook
+18,30 - 39,My work email.,,Work,,Email;Calendar;Groups;Meetings,None that I know of.,No,"The connection between the calendar and inbox, and how easily it looks-up email addresses.",I wish the preview feature for attachments would allow the user a better view of the file.,4,"I like the email signature feature, but I found it a little tough to search for."
+19,18 - 29,Difficult ,,Work,,Email;Calendar,IOS Notes and calendar ,No,Nothing,Clunky and clutter UI,3,
+20,18 - 29,"outdated, but still needed for professional user.",,Work,,Email,i'm not sure I understand the question.,No,reading the emails,nothing comes to mind.,4,
+21,18 - 29,Fear,,Work,,Email;Calendar;Tasks;Meetings,Skype for business,No,color coding categories,scheduling/updating meetings,2,
+22,18 - 29,email box.,new email icon(envelope),Work;Academic,,Email;Calendar;Meetings,Skype 4 Business,Yes,It's accessibility.,confusing layout of available tools we can use in Outlook(too many tools),4,
+23,30 - 39,email,message envelope,Work,,Email;Calendar,im not sure,No,calendar,interface,3,
+24,30 - 39,"Uggg, why cant we just use Gmail? Google Services",Mobile App: Focused ; Chrome: Inbox,Work,,Email;Calendar;Meetings,Anything I do in Outlook gets copied over to Google where all of my work flow resides. ,No,Skype? IDK. Nothing really. ,I don't like the suite. I have been trained and become accustomed to using Gsuite,2,One big thing I think Outlook could do is some color coding of work flow and buttons. The theme is so monochromatic and for me that makes it difficult to differentiate between buttons and such
+25,30 - 39,It seems alright,,Academic,,Email,None ,No,Neutra,I don't use outlook often ,3,
+26,18 - 29,Work,,Work,,Email;Calendar;Meetings,Gmail calendar,No,"Meetings has improved considerably. I think setting up a meeting is now very easy, probably better than GMail.","Search, UI/UX bugs (in the browser app)",1,"I use the browser version, not the app."
+27,40 - 49,email,envelope,Work,,Email;Calendar;Meetings,none,Yes,the way it organize my emails and calendar,nothing,5,
+28,18 - 29,Ughh. Too many distracting features,,Work,,Email,"calendar, tasks and notes ",No,It gets the job done,It can be overwhelming when just trying to knock out emails,3,Outlook probably has features that would be great but I've never figured out how to best utilize them - such as from an email highlighting some sentence which turns into a calendar event in which I could add tasks too and link back to that email from the calendar event if needed.
+29,18 - 29,its screen ,,Work;Personal,,Email;Tasks,emails ,No,its usability,the look,2,
+30,18 - 29,Work email integration,,Work,,Email;Calendar;Meetings,google calendar,No,"some email server are worse than outlook, then connecting them to outlook saves time",its local; I have to make the same configuration for each workspace,4,
+31,30 - 39,Email,Email,Work,Email,Email;Calendar;Groups;Tasks;Meetings,Email,Yes,Email,Email,4,Email
+32,18 - 29,Schedule ,,Work,,Email;Calendar;Tasks,Gmail,Yes,Meetings ,Appointment ,3,
+33,18 - 29,Email,Giant Email button in the center,Work;Academic;Personal,,Email,"Gmail, Slack",No,It's free,Convoluted interface,2,
+34,40 - 49,email,mail,Work;Academic;Personal,,Email;Calendar;Meetings,instant messaging,Yes,easy of use,not interactive,5,best wishes
+35,40 - 49,Great mobile app!,The launch icon,Personal,,Email,Google Calendar (but Outlook mobile it is integrated),Yes,Excellent integration with Google Mail,Nothing; I love their mobile product.,5,"I addressed the mobile app (which they acquired, and is integrated with Gmail), not their old-school desktop product."
+36,18 - 29,email,,Work;Academic,,Email;Calendar;Groups,Gmail,No,checking email,"within email search facility is poor, not discoverable",3,
+37,18 - 29,Microsoft,,Work,,Email;Calendar;Meetings,Gmail,No,It's not helping Google,Getting into the application online and syncing it on an android is sometimes annoying,2,
+38,30 - 39,Email,new email,Work;Academic,,Email;Calendar,google calendar,No,its familiar,it tries to do too much and can be very glitchy,3,
+39,18 - 29,Meeting,,Work,,Email;Calendar;Tasks;Meetings,na,Yes,many functions in one place,searching for content can be hard,4,
+40,18 - 29,That your business requires you to use it. ,,Work,,Email;Calendar;Groups;Meetings,"Google's Calendar, Gmail, Hangouts. ",No,N/A,It's very outdated at this point. ,2,
