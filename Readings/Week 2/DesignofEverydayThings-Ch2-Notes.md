@@ -62,7 +62,7 @@ The subconcious is good at generalization and is efficient, but is often biased;
 
 In comparison, concious thought is slow and labored; performed comparisons, rationalizations and explainations.
 
-![Subconcious vs Concious comparison](/Users/michaeltong/Documents/OMSCS/CS6750/Images/DesignOfEverydayThings-Ch2_1.png)
+![Subconcious vs Concious comparison](./../../Images/DesignOfEverydayThings-Ch2_1.png)
 
 *Positive emotional state* is ideal for creative thought, but often results in scatterbrain-ness and lack of focus on a single topic.
 *Negative emotional state* often causes focus and the ability to maintain attention to a single task.

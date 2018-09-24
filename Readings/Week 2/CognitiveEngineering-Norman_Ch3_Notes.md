@@ -38,7 +38,7 @@ An example number of aspects for a two variable, two goal system.
   - The state is a function of all variables, $S = h(V_1, V_2)$
   - Lastly, there is the complex mapping between the state and psychologial interpertation.
 
-![Aspects of a Task](./../Images/Norman_ch3_aspects_of_a_task.png)
+![Aspects of a Task](./../../Images/Norman_ch3_aspects_of_a_task.png)
 
 ### Towards the Theory of action
 
@@ -65,4 +65,32 @@ Brief summary of task analysis in seven stages:
   - Interpretating the __State__
   - Evaluating the __System State__ with respect to the __Goals__ and __Intentions__
 
-S- 43
+![Example sequence](./../../Images/Norman_Fig_4_3.png)
+
+### Conceptual Models and the System Images
+The two sides to an interface:
+* *System Side*, where the input and output mechanisms mediate between the psychological and physical representations.
+  - Interface can be altered through improved design.
+* *Human Side*, where the stages of execution and perception mediates between psychological and phyisal representations.
+  - Interface can be improved through training and experience.
+
+Conceptual models provide support for bridging the gulfs, which are often to aid in training and troubleshooting.
+
+Three concepts to be considered, the two conceptualizations of the system constructed by the designer and user called the *design model* and *user model* respectively; and the resulting physical system built called the *system image*.
+* The *design model* must consider the users capabilities. The *user model* is not formed from the *design model*, but is interpreted through the *system image*. Thereforce, the primary task of the designer is to construct an appropriate *system image*.
+
+> It is easier to desgn consistent *Design Models* for some things than for others... Spreadsheets are relatively straightforward. General purpose operating systems or programming languages are not. (48)
+
+### On the Quality of Human-Comptuer interaction
+*The details of the interaction matter, ease of use matters, but I want more than correct details, more than a system that is easy to learn or to use: I want a system that is enjoyable to use.*
+
+There is a difficult scenario of throttling control between overautomation and underautomation, passiveness vs lack of mapping intentions to actions.
+
+*The computer should be invisible to the user, acting as the mans by which the person enters into the engagement, but avoiding intrusion into the ongoing throughts and activities.*
+
+### Design Issues
+
+
+
+---
+ conviviality?
