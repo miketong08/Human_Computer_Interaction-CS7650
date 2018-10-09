@@ -75,7 +75,7 @@ plt.show()
 Q11_counts = df_qual['Q11'].value_counts()
 ax = sns.barplot(x=Q11_counts.index, y=Q11_counts)
 ax.set(xlabel='Increasing Satisfaction', ylabel='Counts', title='Q11 Responses')
-add_text(ax, Q11_counts.values)
+add_text(ax, Q11_counts.sort_index().values)
 ax.get_figure().savefig('./Figures/Q11_responses')
 plt.show()
 

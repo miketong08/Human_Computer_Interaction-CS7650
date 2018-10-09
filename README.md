@@ -10,8 +10,8 @@
 |3|	09/03/2018|	3.1, 3.2, 3.3|	~~Assignment M1, CITI Training, Peer Feedback~~|	09/09/2018|
 |4|	09/10/2018|	2.3, 2.4|	~~Assignment P2, Peer Feedback~~|	09/16/2018|
 |5|	09/17/2018|	3.4|	~~Assignment M2, Quarter-Course Survey, Peer Feedback~~|	09/23/2018|
-|6|	09/24/2018|	2.5, 2.6|	Assignment P3, Peer Feedback|	09/30/2018|
-|7|	10/01/2018|	3.5|	Assignment M3, Test 1, Peer Feedback|	10/07/2018|
+|6|	09/24/2018|	2.5, 2.6|	~~Assignment P3, Peer Feedback~~|	09/30/2018|
+|7|	10/01/2018|	3.5|	~~Assignment M3, Test 1, Peer Feedback~~|	10/07/2018|
 |8|	10/08/2018|	2.7, 2.8|	Assignment P4, Peer Feedback|	10/14/2018|
 |9|	10/15/2018|	3.6|	Assignment M4, Mid-Course Survey, Peer Feedback|	10/21/2018|
 |10|	10/22/2018|	2.9, 2.10|	Assignment P5, Peer Feedback|	10/28/2018|
