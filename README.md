@@ -16,9 +16,9 @@
 |9|	10/15/2018|	3.6|	~~Assignment M4, Mid-Course Survey, Peer Feedback~~|	10/21/2018|
 |10|	10/22/2018|	2.9, 2.10|	~~Assignment P5, Peer Feedback~~  |	10/28/2018|
 |11|	10/29/2018|	3.7|	~~Assignment M5, Peer Feedback~~  |	11/04/2018|
-|12|	11/05/2018|	3.8|	Project P, Project M Check-In, Peer Feedback|	11/11/2018|
-|13|	11/12/2018|	4.1|	Project M Check-In, Peer Feedback|	11/18/2018|
-|14|	11/19/2018|	4.2|	Test 2, Project M Check-In, Peer Feedback|	11/25/2018|
-|15|	11/26/2018|	4.3|	Project M Check-In, Peer Feedback|	12/02/2018|
-|16|	12/03/2018|	5.1|	Project M, Peer Feedback|	12/09/2018|
-|17|	12/10/2018|	5.2, 5.3|	Peer Feedback, End-of-Course Survey, CIOS Survey|	12/16/2018|
+|12|	11/05/2018|	3.8|	~~Project P, Project M Check-In, Peer Feedback~~|	11/11/2018|
+|13|	11/12/2018|	4.1|	~~Project M Check-In, Peer Feedback~~|	11/18/2018|
+|14|	11/19/2018|	4.2|	~~Test 2, Project M Check-In, Peer Feedback~~|	11/25/2018|
+|15|	11/26/2018|	4.3|	~~Project M Check-In, Peer Feedback~~|	12/02/2018|
+|16|	12/03/2018|	5.1|	~~Project M, Peer Feedback~~|	12/09/2018|
+|17|	12/10/2018|	5.2, 5.3|	~~Peer Feedback, End-of-Course Survey, CIOS Survey~~|	12/16/2018|

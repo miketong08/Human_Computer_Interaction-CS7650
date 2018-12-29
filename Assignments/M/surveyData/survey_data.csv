@@ -1,0 +1,25 @@
+response,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+1,18 - 29,Female,Passenger,I usually drive 5 or more over the speed limit,UHD for speed ,Defensive,No,Yes,Yes,Yes,Yes
+2,40 - 49,Female,Passenger,I usually drive 5 or more over the speed limit,Speedometer ,Defensive,Yes,Yes,Yes,No,No
+3,18 - 29,Male,Driver,I usually drive 5 or more over the speed limit,speedometer,Aggressive,Yes,Yes,Yes,Yes,Yes
+4,30 - 39,Female,Driver,I usually drive 5 or more over the speed limit,speedometer,Defensive,Yes,No,No,Yes,Yes
+5,18 - 29,Male,Driver,I usually drive around the speed limit,speedometer ,Defensive,Yes,No,No,Yes,Yes
+6,18 - 29,Male,Driver,I usually drive around the speed limit,"speedometer, gas mileage/battery left, radio",Aggressive,Yes,Yes,Yes,Yes,Yes
+7,18 - 29,Male,Driver,I usually drive around the speed limit,Gas meter and speed dial,Aggressive,Yes,Yes,Yes,Yes,Yes
+8,18 - 29,Female,Driver,I usually drive 5 or more over the speed limit,the lines of the car,Defensive,No,No,No,Yes,Yes
+9,40 - 49,Male,Passenger,I usually drive around the speed limit,instrument cluster,Defensive,Yes,Yes,Yes,No,Yes
+10,18 - 29,Male,Driver,I usually drive 5 or more over the speed limit,"speedometer, carplay",Defensive,Yes,No,No,Yes,Yes
+11,18 - 29,Male,Driver,I usually drive 5 or more over the speed limit,Speedometer,Defensive,Yes,Yes,Yes,No,Yes
+12,30 - 39,Male,Driver,I usually drive 5 or more over the speed limit,Speedometer,Defensive,Yes,Yes,Yes,No,Yes
+13,30 - 39,Male,Passenger,I usually drive 5 or more over the speed limit,Radio,Defensive,Yes,Yes,Yes,Yes,Yes
+14,40 - 49,Male,Driver,I usually drive around the speed limit,Speedometer,Defensive,Yes,Yes,Yes,Yes,Yes
+15,18 - 29,Female,Passenger,I usually drive around the speed limit,speedometer,Defensive,Yes,Yes,Yes,Yes,Yes
+16,30 - 39,Male,Passenger,I usually drive 5 or more over the speed limit,Speedometer and mirrors,Defensive,Yes,No,No,Yes,Yes
+17,18 - 29,Male,Driver,I usually drive 5 or more over the speed limit,speedometer,Aggressive,Yes,No,No,No,Yes
+18,30 - 39,Male,Driver,I usually drive 5 or more over the speed limit,speedometer,Defensive,Yes,Yes,Yes,Yes,Yes
+19,30 - 39,Male,Driver,I usually drive around the speed limit,speedometer,Defensive,Yes,Yes,Yes,Yes,Yes
+20,18 - 29,Male,Passenger,I usually drive around the speed limit,Speedometer ,Defensive,Yes,Yes,Yes,Yes,Yes
+21,30 - 39,Male,Passenger,I usually drive 5 or more under the speed limit,speedometer,Defensive,Yes,Yes,No,Yes,Yes
+22,18 - 29,Female,Driver,I usually drive around the speed limit,Radio/navigation interface,Defensive,No,Yes,Yes,Yes,Yes
+23,18 - 29,Male,Driver,I usually drive 5 or more over the speed limit,Speedometer,Aggressive,Yes,Yes,Yes,No,No
+24,30 - 39,Male,Driver,I usually drive 5 or more over the speed limit,speedometer,Defensive,Yes,No,Yes,Yes,Yes
